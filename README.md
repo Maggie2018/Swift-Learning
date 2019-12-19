@@ -35,18 +35,4 @@
 ## Other Resources
 iPad app: Playgrounds
 
-# Swift Learning tips
-- 坚持写代码：编程是敲会的，不是眼睛看会的。
-- 学会查文档：学会查苹果官方API文档、Stack Overflow等。
-- 读技术博客：GitHub等。
-- 下载成熟app，观察学习。
-- 只会一门语言是不够的，网络编程、数据库、算法、设计、交互等都需要掌握。
-- 保持一颗好奇心和对计算机、互联网的热爱，锻炼出极强的自学能力，不断学习新知识，不断尝试和接受新事物。
 
-# My learning records
-- 2019.07.01 started learning Swift 5
-- 2019.07.05 started a simple project in Xcode
-- 2019.07.07 finished Learn to Code 1 in iPad app "Playgrounds"
-- 2019.07.15 learned how to set links between storyboard and ViewController by completing a little app called "Dicee"
-- 2019.07.16 completed a simple app called "Xylophone"
-- 2019.07.21 completed a simple app called "Quizzler"
